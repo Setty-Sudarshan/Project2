@@ -1,11 +1,11 @@
 <html>
 <body>
-<h1><font color='red'> Welcome to Ashok IT - Software Training Institute <font></h1>
+<h1><font color='red'> Welcome to Jenkins !!  <font></h1>
 <h2>Learn Here.. Lead Anywhere..!! </h2>
 
-<a href="https://ashokitech.com/online-training-schedules">Click Here To See Ashok IT Training Schedules</a>
+<a href="https://github.com/Setty-Sudarshan/Project2.git">Click Here To See the sample project to run on Tomcat Server</a>
   
-  <h2> Call Us : + 91 - 99 85 39 66 77 </h2>
+  <h2> Bahubali RRR EEGA </h2>
 
 </body>
 </html>
